@@ -24,5 +24,4 @@ commonAnnotations:
   supported-by: "testUser@mail.de"
 
 configMapGenerator:
-- name: vote-options
-  env: options.env
+- vote: name
